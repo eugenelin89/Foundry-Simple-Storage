@@ -1,4 +1,3 @@
-// I'm a comment!
 // SPDX-License-Identifier: MIT
 // Copied from: https://github.com/cyfrin/remix-simple-storage-cu
 pragma solidity 0.8.19;
